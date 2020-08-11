@@ -8,8 +8,9 @@ Easily download or stream torrent Files
 4.Install VLC media player<br />
 
 ## API 
-`https://torrent-api-1337x.herokuapp.com/{query}`<br />
-`https://torrent-api-1337x.herokuapp.com/avengers`<br /><br />
+`https://torrent-api-1337x.herokuapp.com/{query}`<br /><br />
+
+Example : `https://torrent-api-1337x.herokuapp.com/avengers`<br /><br />
 `[`<br />
    `{`<br />
       `"Name":" Avengers: Endgame (2019) [WEBRip] [1080p] [YTS] [YIFY]",`<br />
