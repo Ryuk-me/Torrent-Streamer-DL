@@ -12,7 +12,7 @@ Easily download or stream torrent Files
 
 Example : `https://torrent-api-1337x.herokuapp.com/avengers`<br /><br />
 
-``json
+```json
 {
       Name: " Avengers: Endgame (2019) [WEBRip] [1080p] [YTS] [YIFY] ",
       category: "HD",
