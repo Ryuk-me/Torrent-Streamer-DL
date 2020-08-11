@@ -2,7 +2,7 @@
 Easily download or stream torrent Files
 
 ## Requirements
-1 .Install Node Js and it to the path<br />
+1 .Install Node Js and add it to the path<br />
 2.Open CMD aand run this commmand `npm install webtorrent-cli -g`<br />
 3.Install requirements `pip install -r requirements.txt`<br />
 4.Install VLC media player<br />
